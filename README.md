@@ -16,12 +16,11 @@ This repository contains the implementation of the method proposed in the paper 
 Saliency detection is crucial for various computer vision tasks. In this work, we introduce a novel approach that utilizes bilateral feature fusion combined with hexagonal attention to achieve robust performance in uncertain and dynamic environments.
 
 ## Method
-Our method comprises two main components:
-- **Bilateral Feature Fusion**: Combines multi-scale features to enhance robustness against varying conditions.
-- **Hexagonal Attention**: Captures spatial dependencies using a unique hexagonal pattern, improving attention accuracy in complex environments.
+**Note**: The detailed implementation and descriptions of the method will be made available to the research community after the publication of the paper.
+
 
 ## Availability
-The full codebase will be publicly released after the paper's acceptance and publication. It will support training, evaluation, and reproducibility of the results reported in the paper.
+The full codebase will be publicly released after the publication. It will support training, evaluation, and reproducibility of the results reported in the paper.
 
 ## License
 This project will be licensed under the MIT License upon release.
