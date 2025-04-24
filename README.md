@@ -50,7 +50,7 @@ Key contributions include:
 
 ## 🔄 Network Architecture
 
-![BiFusHNet Architecture](path_to_architecture_diagram.png)
+![BiFusHNet Architecture](Network.png)
 
 
 
