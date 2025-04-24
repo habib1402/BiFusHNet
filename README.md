@@ -165,7 +165,7 @@ The empirical analysis, including quantitative metrics (e.g., MAE, F-measure, S-
 
 ### Qualitative Results
 
-![Qualitative Results](path_to_qualitative_results.png)
+![Qualitative Results](Comp.png)
 
 *Sample visualizations will be added upon publication.*
 
