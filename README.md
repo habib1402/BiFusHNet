@@ -178,7 +178,7 @@ The full codebase — including model implementation, training and evaluation sc
 ---
 
 ## 📝 Citation
-
+Please cite our below published studies
 ```bibtex
 @article{khan2025bilateral,
   title={Bilateral Feature Fusion with hexagonal attention for robust saliency detection under uncertain environments},
