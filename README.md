@@ -1,30 +1,48 @@
 # BiFusHNet
-This repository is reserved for the implementation of the proposed BiFusHNet. 
-**Note:** The code is currently undergoing an organization process and will be made available to the research community soon. Stay tuned for updates.
 
-## Table of Contents
+**BiFusHNet: Bilateral Feature Fusion with Hexagonal Attention for Robust Saliency Detection under Uncertain Environments**
+
+This repository is reserved for the official implementation of the proposed **BiFusHNet** framework.  
+> 🔧 **Note:** The code is currently undergoing an organization process and will be made available to the research community soon. Stay tuned for updates.
+
+---
+
+## 📋 Table of Contents
+
 - [Introduction](#introduction)
-- [Method](#method)
+- [Method Overview](#method-overview)
+- [Datasets](#datasets)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
+- [Availability](#availability)
 - [License](#license)
 
-## Introduction
-Saliency detection is crucial for various computer vision tasks. In this work, we introduce a novel approach BiFusHNet to achieve robust performance in uncertain and dynamic environments.
+---
 
-## Method
-The detailed logics and descriptions of the method will be also made available to the research community.
+## 📌 Introduction
 
-## visual uncertainities and dynamic environments
-The role of visual uncertainities will be explained in more detail with visual samples.
+Saliency detection plays a foundational role in many vision tasks such as segmentation, object detection, and image captioning. In this work, we propose **BiFusHNet**, a novel saliency detection network designed to perform robustly under **visual uncertainties** and **dynamic environments**.
 
-## Results 
-The empirical analysis, including performance metrics and qualitative samples across all evaluated datasets, will be made publicly available for the research community. This will enable qualitative comparison and further analysis by other researchers upon the publication of the paper.
+---
 
+## 🔍 Method Overview
 
-## Availability
-The full codebase will be publicly released after the publication. It will support training, evaluation, and reproducibility of the results reported in the paper.
+BiFusHNet leverages bilateral feature fusion and a novel hexagonal attention mechanism to enhance discriminative feature representation. The architecture is tailored to preserve fine object boundaries while maintaining robustness to noise and visual ambiguities.
 
-## License
-This project will be licensed under the MIT License upon release.
+> Full architectural details, along with module breakdowns and ablation studies, will be available upon publication.
+
+---
+
+## 📂 Datasets
+
+BiFusHNet is trained and evaluated on several widely used saliency detection benchmarks. Below are the links to download each dataset:
+
+- [DUTS](http://saliencydetection.net/duts/)  
+- [DUT-OMRON](http://saliencydetection.net/dut-omron/)  
+- [HKU-IS](https://i.cs.hku.hk/~gbli/deep_saliency.html)  
+- [PASCAL-S](https://www.yanweifu.com/cvpr2014/)  
+- [SOD](http://elderlab.yorku.ca/SOD/)  
+- [ECSSD](https://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/)  
+
+Please organize the datasets in the following directory structure:
