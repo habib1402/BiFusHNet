@@ -1,8 +1,6 @@
 # BiFusHNet
-abcdxc
 This repository is reserved for the implementation of the proposed BiFusHNet. 
-abc
-**Note:** The code will be made available to the research community upon the publication of the paper. Stay tuned for updates.
+**Note:** The code is currently undergoing an organization process and will be made available to the research community soon. Stay tuned for updates.
 
 ## Table of Contents
 - [Introduction](#introduction)
