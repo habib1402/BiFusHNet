@@ -49,7 +49,7 @@ Key contributions include:
 ---
 
 ## 🔄 Network Architecture
-
+Visual Illustration of the proposed network.
 ![BiFusHNet Architecture](Network.png)
 
 
