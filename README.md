@@ -134,7 +134,7 @@ Or
 | BiFusHNet (w/o uc) | ECSSD | 0.950 | 0.026 | 0.967 | 0.935 |
 | BiFusHNet (w/ uc) | ECSSD | 0.948 | 0.026 | 0.970 | 0.939 |
 
-### Quantitative Results
+### Additional Quantitative Results
 
 ![Quantitative Results](Quan1.png)
 ![Quantitative Results](Quan2.png)
