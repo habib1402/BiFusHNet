@@ -140,7 +140,7 @@ The empirical analysis, including quantitative metrics (e.g., MAE, F-measure, S-
 
 ### Quantitative Results
 
-![Quantitative Results](Quan1.png)
+![Quantitative Results](Network.png)
 ![Quantitative Results](Quan2.png)
 
 | Method | DUTS-TE | DUT-OMRON | HKU-IS | PASCAL-S | SOD | ECSSD |
