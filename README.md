@@ -114,9 +114,9 @@ Coming soon
 
 ## 🚀 Usage
 
-### Training
+##Training
 Coming soon
-### Evaluation
+## Evaluation
 Coming soon
 
 ### Inference on Custom Images
@@ -140,7 +140,7 @@ Use these for visualization, metric evaluation, or benchmarking.
 
 The empirical analysis, including quantitative metrics (e.g., MAE, F-measure, S-measure) and qualitative visualizations, will be made available. These will enable a fair and comprehensive comparison for researchers.
 
-### Quantitative Results
+## Quantitative Results
 
 ![Quantitative Results](Quan1.png)
 ![Quantitative Results](Quan2.png)
@@ -150,7 +150,7 @@ The empirical analysis, including quantitative metrics (e.g., MAE, F-measure, S-
 | BiFusHNet (w/ uncertainty) | - | - | - | - | - | - |
 | BiFusHNet (w/o uncertainty) | - | - | - | - | - | - |
 
-### Qualitative Results
+## Qualitative Results
 
 ![Qualitative Results](Comp.png)
 
