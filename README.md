@@ -105,7 +105,7 @@ cd BiFusHNet
 
 We present a comprehensive empirical analysis of BiFusHNet with state-of-the-art comparison across six benchmark datasets. Our evaluation includes four key metrics (F-measure, MAE, E-measure, and S-measure) to provide a thorough assessment of performance. The quantitative results demonstrate the effectiveness of our uncertainty modeling approach, while qualitative visualizations highlight our method's superior boundary preservation and robustness to visual ambiguities. These extensive experiments enable researchers to make fair and informed comparisons with our approach.
 
-| Method | DUTS-TE |  |  |  | DUT-OMRON |  |  |  | HKU-IS |  |  |  |
+| Method | DUTS-TE | DUT-OMRON | HKU-IS |
 |--------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 |        | F^max | MAE | E_m | S_m | F^max | MAE | E_m | S_m | F^max | MAE | E_m | S_m |
 | BiFusHNet (w/o uc) | 0.895 | 0.028 | 0.948 | 0.904 | 0.814 | 0.045 | 0.900 | 0.859 | 0.939 | 0.024 | 0.970 | 0.928 |
