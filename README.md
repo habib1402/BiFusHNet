@@ -104,39 +104,21 @@ git clone https://github.com/username/BiFusHNet.git
 cd BiFusHNet
 
 # Create conda environment
-conda create -n bifushnet python=3.8
-conda activate bifushnet
-
+Coming soon
 # Install PyTorch with CUDA support
-conda install pytorch torchvision cudatoolkit=11.3 -c pytorch
-
+Coming soon
 # Install additional dependencies
-pip install -r requirements.txt
-```
-
----
+Coming soon
 
 ## 🚀 Usage
 
 ### Training
-
-```bash
-python train.py --config configs/train_config.yaml
-```
-
+Coming soon
 ### Evaluation
-
-```bash
-python evaluate.py --config configs/eval_config.yaml --ckpt path/to/checkpoint.pth
-```
+Coming soon
 
 ### Inference on Custom Images
-
-```bash
-python predict.py --input path/to/image --output path/to/output --ckpt path/to/checkpoint.pth
-```
-
----
+Coming soon
 
 ## 🧠 Saliency Predictions
 
@@ -157,6 +139,9 @@ Use these for visualization, metric evaluation, or benchmarking.
 The empirical analysis, including quantitative metrics (e.g., MAE, F-measure, S-measure) and qualitative visualizations, will be made available. These will enable a fair and comprehensive comparison for researchers.
 
 ### Quantitative Results
+
+![Quantitative Results 1](Quan1.png)
+![Quantitative Results 2](Quan2.png)
 
 | Method | DUTS-TE | DUT-OMRON | HKU-IS | PASCAL-S | SOD | ECSSD |
 |--------|---------|-----------|--------|----------|-----|-------|
